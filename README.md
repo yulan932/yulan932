@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hello World!  :peach: I'm Yulan.
 
-<!--
-**yulan932/yulan932** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :book: I'm currently a doctoral student on campus
+- :rainbow: Enjoyed life to the full
+- :baby_chick: Github/Pyhton Beginner,With more guidance.
+- :envelope: How to reach me: 18970348725@163.com
+- :hammer: Read more about my Github: [Incomplete](https://yulan932.github.io/)
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yulan932)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You are my ![Visitor Count](https://profile-counter.glitch.me/yulan932/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+
+
+
+
+
+
+

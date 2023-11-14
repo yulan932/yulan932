@@ -1,5 +1,7 @@
 ## Hello World!  :peach: I'm Yulan.
 
+![Anurag's GitHub stats](https://raw.githubusercontent.com/yulan932/yulan932/output/github-contribution-grid-snake.svg)
+
 - :book: I'm currently a doctoral student on campus
 - :rainbow: Enjoyed life to the full
 - :baby_chick: Github/Pyhton Beginner,With more guidance.

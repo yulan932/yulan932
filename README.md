@@ -1,5 +1,9 @@
 ## Hello World!  :peach: I'm Yulan.
 
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=这世界那么多人;致敬奋斗路上劈星斩月的你!&center=true&size=27"> </h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=OPPOsans&pause=1000&color=FD8B64&center=true&vCenter=true&random=false&width=435&lines=Hello+world%EF%BC%81I%E2%80%98m+Yulan.)](https://git.io/typing-svg)
+
 ![Anurag's GitHub stats](https://raw.githubusercontent.com/yulan932/yulan932/output/github-contribution-grid-snake.svg)
 
 - :book: I'm currently a doctoral student on campus

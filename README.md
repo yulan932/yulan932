@@ -5,7 +5,7 @@
 - :book: I'm currently a doctoral student on campus
 - :rainbow: Enjoyed life to the full 
 - :baby_chick: Github/Pyhton Beginner,With more guidance.
-- :envelope: How to reach me: 18970348725@163.com
+- :envelope: How to contact me: 18970348725@163.com
 - :hammer: Read more about my Github: [Incomplete](https://yulan932.github.io/) :construction: 
 
 ![](https://github-readme-stats.vercel.app/api?username=yulan932)
@@ -17,5 +17,5 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/yulan932/count.svg
 
 ![](https://img.shields.io/github/downloads/{yulan932}/{repo-name}/total.svg)
 ![](https://img.shields.io/github/stars/{yulan932}/{repo-name}.svg)
-![](https://img.shields.io/github/forks/{yulan932}/{yulan932}.svg)
+![](https://img.shields.io/github/forks/{yulan932}/{repo-yulan932}.svg)
 

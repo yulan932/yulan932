@@ -6,7 +6,7 @@
 - :rainbow: Enjoyed life to the full 
 - :baby_chick: Github/Pyhton Beginner,With more guidance.
 - :envelope: How to reach me: 18970348725@163.com
-- :hammer::construction: Read more about my Github: [Incomplete](https://yulan932.github.io/)
+- :hammer: Read more about my Github: [Incomplete](https://yulan932.github.io/) :construction: 
 
 ![](https://github-readme-stats.vercel.app/api?username=yulan932)
 

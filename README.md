@@ -10,7 +10,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=yulan932)
 
-[![](https://streak-stats.demolab.com/?user=yulan932)]
+![](https://streak-stats.demolab.com/?user=yulan932)
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/yulan932/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 

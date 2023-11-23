@@ -10,10 +10,14 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=yulan932)
 
+[![](https://streak-stats.demolab.com/?user=yulan932)](https://git.io/streak-stats)
+
 You are my ![Visitor Count](https://profile-counter.glitch.me/yulan932/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+
 
 ![](https://img.shields.io/badge/alipay-00A1E9?style=for-the-badge&logo=alipay&logoColor=white)
 ![](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)
+
 
 ![](https://img.shields.io/github/downloads/{yulan932}/{repo-name}/total.svg)
 ![](https://img.shields.io/github/stars/{yulan932}/{repo-name}.svg)
